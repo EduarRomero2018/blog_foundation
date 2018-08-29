@@ -1,0 +1,55 @@
+body{
+  background-image:url(../img/fondo.jpeg);
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size:cover;
+}
+hr{
+  background: #1f8dc0;
+}
+.session1 .titulo{
+  background: rgb(242, 242, 242, 0.9);
+  text-align:left;
+}
+.session1 .titulo h1{
+  font-size: 25px;
+}
+.session1 img{
+  width:20%;
+}
+.session1 hr{
+  height: 1px;
+}
+.session2{
+  text-align: right;
+}.session3 h4{
+  padding-left: 10px;
+}
+
+.session3 img{
+  width: 100%;
+}
+.session4 li{
+color: #1f8dc0;
+}
+.session4 li:hover{
+  color: #000;
+  }
+  .session1 .especialidad{
+    background: rgb(242, 242, 242, 0.9);
+    text-align:center;
+  }
+  .session1 .especialidad h1{
+    font-size: 25px;
+  }
+  .session1 .especialidad .fecha{
+    font-size: 12px;
+  }
+  .session1 .especialidad img{
+    width: 100%;
+  }
+  .session1 .especialidad input{
+    border-bottom-right-radius: 30px;
+    border-top-right-radius: 30px;
+  }
